@@ -41,7 +41,7 @@ const Reason = () => {
         JOIN FOR JUST ₦2,000
       </button>
       <ul
-        className={`${style.account} px-[20px] py-[10px] w-[400px] md:w-[600px] rounded-[10px]`}
+        className={`${style.account} px-[20px] py-[10px] w-[350px] md:w-[600px] rounded-[10px]`}
       >
         <li>ACCOUNT: ₦2,000</li>
         <li>ACCOUNT NAME: BRAINCOTECH HUB NIG LTD</li>
