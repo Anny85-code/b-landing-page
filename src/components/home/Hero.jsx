@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
 import image from '../../../public/svgs/image.svg';
-import lines from '../../../public/svgs/3-lines.svg';
+import lines from '../../../public/images/b-angle.jpg';
 import bottomI from '../../../public/svgs/hero-b.svg';
 
 const Hero = () => {
